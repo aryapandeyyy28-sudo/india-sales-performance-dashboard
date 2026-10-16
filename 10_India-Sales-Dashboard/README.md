@@ -20,35 +20,35 @@ This project delivers a multi-page interactive executive sales analytics dashboa
 ### 1. Sales Performance Overview
 > *Tracking gross sales, target progress, regional sales distribution, and order volume.*
 
-![Sales Performance Overview](10_India-Sales-Dashboard/Screenshots/I4.png)
+![Sales Performance Overview](https://raw.githubusercontent.com/aryapandeyyy28-sudo/india-sales-performance-dashboard/main/10_India-Sales-Dashboard/Screenshots/I4.png)
 
 ---
 
 ### 2. Profit Performance Overview
 > *Detailed analysis of net margins, monthly profit trends, and high-margin product zones.*
 
-![Profit Performance Overview](10_India-Sales-Dashboard/Screenshots/I2.png)
+![Profit Performance Overview](https://raw.githubusercontent.com/aryapandeyyy28-sudo/india-sales-performance-dashboard/main/10_India-Sales-Dashboard/Screenshots/I2.png)
 
 ---
 
 ### 3. Manager Performance Overview
 > *Executive scorecard measuring individual manager achievement against targets and quotas.*
 
-![Manager Performance Overview](10_India-Sales-Dashboard/Screenshots/I1.png)
+![Manager Performance Overview](https://raw.githubusercontent.com/aryapandeyyy28-sudo/india-sales-performance-dashboard/main/10_India-Sales-Dashboard/Screenshots/I1.png)
 
 ---
 
 ### 4. Manager Detailed Drill-Down Table
 > *Granular transaction matrix tracking manager-level metrics, customer accounts, and variances.*
 
-![Manager Details](10_India-Sales-Dashboard/Screenshots/I3.png)
+![Manager Details](https://raw.githubusercontent.com/aryapandeyyy28-sudo/india-sales-performance-dashboard/main/10_India-Sales-Dashboard/Screenshots/I3.png)
 
 ---
 
 ### 5. Category Breakdown & Insights
 > *Pareto distribution and visual breakdown across sub-categories and product lines.*
 
-![Category Insights](10_India-Sales-Dashboard/Screenshots/I5.png)
+![Category Insights](https://raw.githubusercontent.com/aryapandeyyy28-sudo/india-sales-performance-dashboard/main/10_India-Sales-Dashboard/Screenshots/I5.png)
 
 ---
 
